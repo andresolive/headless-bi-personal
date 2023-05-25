@@ -1,4 +1,4 @@
-cube(`orders`, {
+cube(`Orders`, {
   sql_table: `public.orders`,
 
   data_source: `default`,
